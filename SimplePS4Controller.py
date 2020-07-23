@@ -166,23 +166,6 @@ class ControllerData:
         theta *= 180 / math.pi   # rads to degs, range (-180, 180]
         return theta
 
-    @staticmethod
-    def convertValuesToText(array):
-        #print array
-        strValues="["
-        index=0
-        strItems = ""
-        for item in array:
-            if index>0:
-                strItems= strItems  + ","
-            index= index+1
-            strItems = strItems + str(item)
-        strItems = strItems + ",20"
-        strValues = strValues + strItems + "]"
-        return strValues
-
-
-
 
 
 
