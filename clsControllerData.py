@@ -1,10 +1,17 @@
-# No Change in this file Please
+#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+#
+# simple Playstation 4 Controller ControllerData
+#
+# Copyright © TareqGamal ArabicRobotics 
+# ArabicRobotics.com
+# https://github.com/ArabicRobotics
+# https://www.youtube.com/channel/UCj3IoLXlUfjYTHpwgXm4xsg
+# https://www.codeproject.com/Members/Tareq-Gamal
+
 # you can Add your code In File (Demo.py)
 
-
-import pygame
-import threading
-import time
+# https://www.codeproject.com/Members/Tareq-Gamal
 import math
 class ControllerData:
     axis_data = None
@@ -158,10 +165,3 @@ class ControllerData:
 
 
 
-
-
-
-
-    """
-    end Functions for movement 
-    """
