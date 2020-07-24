@@ -1,6 +1,6 @@
 
 Full Code explained on CodeProject:
-[go](http://stackoverflow.com){:target="_blank"}https://www.codeproject.com/Members/Tareq-Gamal
+[go](http://stackoverflow.com){:target="_blank"}https://www.codeproject.com/Members/Tareq_Gamal
 # SimplePS4Controller
 This class to control Play Station 4  By threading and friendly names.
 
