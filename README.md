@@ -4,14 +4,17 @@ Full Code explained on CodeProject:
 # SimplePS4Controller
 This class to control Play Station 4  By threading and friendly names.
 
-[![N|Solid](https://github.com/ArabicRobotics/SimplePS4Controller/blob/master/article.png)](https://github.com/ArabicRobotics/SimplePS4Controller/blob/master/article.png)
-
+[![N|Solid](https://github.com/ArabicRobotics/SimplePS4Controller/blob/master/SimplePS4Controller.png)](https://github.com/ArabicRobotics/SimplePS4Controller/blob/master/SimplePS4Controller.png)
 # Class Methods and Variables
 # Threading Feature
 [![N|Solid](https://github.com/ArabicRobotics/SimplePS4Controller/blob/master/threadingActions.png)](https://github.com/ArabicRobotics/SimplePS4Controller/blob/master/threadingActions.png)
 
 
 ### Float variables names
+
+[![N|Solid](https://github.com/ArabicRobotics/SimplePS4Controller/blob/master/article.png)](https://github.com/ArabicRobotics/SimplePS4Controller/blob/master/article.png)
+
+
 
 [![N|Solid](https://github.com/ArabicRobotics/SimplePS4Controller/blob/master/mapNames2.png)](https://github.com/ArabicRobotics/SimplePS4Controller/blob/master/mapNames2.png)
 
@@ -35,11 +38,6 @@ pip install pygame
 
 #### python 3.x:
 pip3 install pygame 
-
-
-
-
-[![N|Solid](https://github.com/ArabicRobotics/SimplePS4Controller/blob/master/pssceleton.png)](https://nodesource.com/products/nsolid)
 
 
 
